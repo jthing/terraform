@@ -1,3 +1,4 @@
+# Setup for LXD on Pandora
 terraform {
   cloud {
     organization = "pandora-norge"
